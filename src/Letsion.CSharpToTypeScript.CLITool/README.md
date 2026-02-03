@@ -10,7 +10,7 @@ We have **changed the following things**:
 ## Installing
 
 ```cmd
-dotnet tool install --global SysTec.CSharpToTypeScript.CLITool
+dotnet tool install --global Letsion.CSharpToTypeScript.CLITool
 ```
 
 ## Usage
@@ -56,7 +56,7 @@ dotnet csharp2ts init
 
 ## Run on Build
 
-**Sample**: https://github.com/AdrianWilczynski/CSharpToTypeScript/tree/master/samples/RunOnBuild
+**Sample**:
 
 Add `Exec` task to `.csproj` file.
 
