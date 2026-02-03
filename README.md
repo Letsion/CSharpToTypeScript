@@ -9,4 +9,4 @@ We have **changed the following things**:
 
 **Visual Studio Code Extension**: https://github.com/Letsion/CSharpToTypeScript/CSharpToTypeScript/blob/master/src/CSharpToTypeScript.VSCodeExtension/README.md
 
-**Command Line Interface**: https://github.com/Letsion/CSharpToTypeScript/CSharpToTypeScript/blob/master/src/SysTec.CSharpToTypeScript.CLITool/README.md
+**Command Line Interface**: https://github.com/Letsion/CSharpToTypeScript/CSharpToTypeScript/blob/master/srcLetsion.CSharpToTypeScript.CLITool/README.md
